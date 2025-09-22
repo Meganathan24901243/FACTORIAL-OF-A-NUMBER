@@ -54,10 +54,24 @@ END
 ```
 OUTPUT
 
-(Keil output screenshot can be inserted here)
+
+
+<img width="600" height="900" alt="MPMC(FACT)" src="https://github.com/user-attachments/assets/9a237fd5-4f22-4a46-bec5-c98b9378df6e" />
+
+
+
+
+
+
+
+
+
+
+<img width="600" height="900" alt="MPMC(FACT1)" src="https://github.com/user-attachments/assets/2689d7bf-d1a6-42ba-a9e7-943548987212" />
 
 ---
 MANUAL CALCULATIONS
+![WhatsApp Image 2025-09-22 at 18 27 06_77316edf](https://github.com/user-attachments/assets/1f8c1a95-6f2d-48fc-8adb-069b13734cbd)
 
 ---
 
